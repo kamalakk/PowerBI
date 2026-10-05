@@ -1,0 +1,8 @@
+Order ID ,Customer_Name,Product_Category, Price / Unit ,Qty,Order Date,Region
+1001,  john Smith ,Electronics-Laptops,"$1,200.00",1,2024/01/15,North
+1002,ALICE BROWN,Home-Furniture,$450.50,two,16-Jan-2024,SOUTH
+1003,Bob Taylor,Electronics-Phones,300,3,2024-01-17,east
+1003,Bob Taylor,Electronics-Phones,300,3,2024-01-17,east
+1004, Charlie  Davis,Clothing-Shirts,$25.00,5,"Jan 18, 2024",West
+1005,EMMA WILSON ,Home-Decor,invalid_price,2,2024.01.19,NORTH
+1006,Frank Miller,Electronics-Audio,$150.00,1,2024/01/20,south
